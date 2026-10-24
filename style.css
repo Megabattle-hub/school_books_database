@@ -1,0 +1,7 @@
+\\ стили для страницы
+
+.navbar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
